@@ -15,9 +15,10 @@ DNS over TLS `tls://dns.futuredns.me`
 
 DNS over QUIC `quic://dns.futuredns.me`
 
+#### Please, note that some locations are only available through encrypted protocols, making them not being listed below and only being accessible through our anycast network. 
+
 
 ## Unencrypted DNS 
-
 
 ### Europe
 
@@ -74,7 +75,7 @@ To check service status, go to https://status.futuredns.me.
 
 AdGuard DNS filter - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-OISD Blocklist Basic - https://abp.oisd.nl/basic/
+OISD Blocklist Full - https://abp.oisd.nl/basic/
 
 Perflyst and Dandelion Sprout's Smart-TV Blocklist - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
 
@@ -84,9 +85,15 @@ WindowsSpyBlocker - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocke
 
 Dandelion Sprout's Extremely Condensed Lists - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt
 
-1Hosts (Lite) - https://o0.pages.dev/Lite/adblock.txt
+1Hosts (Pro) - https://o0.pages.dev/Pro/adblock.txt
 
 GoodByeAds - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
+Energized Ultimate - https://block.energized.pro/ultimate/formats/hosts
+
+Energized Regional Extension - https://block.energized.pro/extensions/regional/formats/hosts
+
+Spam404 Filter - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 
 ### Allowlists
 
@@ -108,5 +115,3 @@ If you have any questions about the service, as well as suggestions, feel free t
  AWS Activate - https://aws.amazon.com/activate/
  
  Through of AWS Activate for startups program, which gave us credits to develop our project, we were able to deploy this infrastructure.
-
-
