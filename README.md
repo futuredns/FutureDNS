@@ -60,11 +60,6 @@ We do not register any logs and the client's IP adresses are anonymized. EDNS is
 
 New servers will be added soon. If you want, you can request a server creating a issue in this repository or sending an e-mail to contact@futuredns.me
 
-## Privacy & Security
-
-The servers use AdGuard Home, and are hosted on AWS. AWS do not have acess to any data processed in our servers, and all our servers are encrypted.
-We do not register any logs and the client's IP adresses are anonymized. EDNS is disabled by default.
-
 ## Service Status
 
 To check service status, go to https://status.futuredns.me.
