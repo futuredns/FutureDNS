@@ -1,6 +1,6 @@
 # FutureDNS
 
-Future DNS is a privacy friendly DNS service with OpenNIC support that blocks ads, trackers and malware. All servers support DNSSEC, DNS-over-TLS, DNS-over-HTTPS and DNS-over-QUIC, and that does not log any data. 
+Future DNS is a privacy-friendly DNS service with OpenNIC support that blocks ads, trackers and malware. All servers support DNSSEC, DNS-over-TLS, DNS-over-HTTPS and DNS-over-QUIC, and that does not log any data. 
 
 
 # DNS Servers
