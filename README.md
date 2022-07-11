@@ -70,7 +70,7 @@ To check service status, go to https://status.futuredns.me.
 
 AdGuard DNS filter - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-OISD Blocklist Full - https://abp.oisd.nl/basic/
+OISD Blocklist Full - https://abp.oisd.nl/
 
 Perflyst and Dandelion Sprout's Smart-TV Blocklist - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
 
